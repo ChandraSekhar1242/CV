@@ -1,0 +1,31 @@
+body{
+  background-color:#EAF6F6;
+  font-size: 30px;
+}
+hr{
+  background-color: white;
+  border-style:none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 5px;
+  width:5%;
+}
+h1{
+  color: #65D6CE;
+  font-size: 40px;
+
+}
+h3
+{
+  color: #65D6CE;
+  font-size: 30px;
+}
+h4{
+  color:black;
+  font-size: :20px;
+}
+.content {
+  max-width: 1000px;
+  margin: auto;
+  padding: 10px;
+}
